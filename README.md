@@ -36,6 +36,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Biñan, Laguna | — | [GitHub](https://github.com/Criflar/betterbinan) | — | 🔵 Planned | [@Criflar](https://github.com/Criflar), [@chiwasushuba](https://github.com/chiwasushuba) |
 | Tanay, Rizal | — | [GitHub](https://github.com/s4burieru/bettertanay) | — | 🟡 Work in Progress | [@s4burieru](https://github.com/s4burieru) |
 | Puerto Princesa City, Palawan | — | [GitHub](https://github.com/Kelxety/betterpuertoprincesa) | — | 🔵 Planned | [@kelxety](https://github.com/kelxety) |
+| Libmanan, Camarines Sur | — | [GitHub](https://github.com/enzox0/betterlibmanan) | — | 🔵 Planned | [@enzox0](https://github.com/enzox0) |
 
 <!-- SYNC_LGU_TABLE_END -->
 
